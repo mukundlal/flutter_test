@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933324677464",
+    "firebase_url": "https://codermonkdev.firebaseio.com",
+    "project_id": "codermonkdev",
+    "storage_bucket": "codermonkdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933324677464:android:54a8f5106027abeae2052d",
+        "android_client_info": {
+          "package_name": "com.cmlab.krishi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933324677464-1jo652799jpit8b1k8i9917sh9oqa1hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99NVbUGiGHh_9fU9LlvQeX0MrVLYrzo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933324677464-1jo652799jpit8b1k8i9917sh9oqa1hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
