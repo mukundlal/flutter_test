@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:krishi_app/screens/auth/authenticate.dart';
 import 'package:krishi_app/services/auth.dart';
 
 class SignIn extends StatefulWidget {
@@ -24,7 +23,7 @@ class _SignInState extends State<SignIn> {
           onPressed: () async {
             dynamic result = await _authService.signInAnon();
             if (result == null) {
-              print('user not signed in');
+              print('user not signed in new');
             } else {
               print(result);
             }
